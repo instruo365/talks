@@ -1,12 +1,8 @@
 # Community Talk Resources
 
-This repository contains all supporting materials for our **community talks, conference sessions, and meetups**.  
-It serves as a central place to store, share, and maintain content that **supports, enriches, or extends** our presentations.
+This repository contains all supporting materials for **community talks, conference sessions, and meetups**.  
+It serves as a central place to store, share, and maintain content that **supports, enriches, or extends** the presentations.
 
-The content is structured **by event**, making it easy to navigate and find all relevant materials for a specific talk or conference.  
-by:  
-@jenkra91 https://www.linkedin.com/in/krause-jennifer  
-@holgerimbery https://www.linkedin.com/in/holgerimbery
 ---
 
 ## Purpose
